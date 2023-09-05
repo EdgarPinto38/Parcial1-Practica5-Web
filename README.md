@@ -1,1 +1,0 @@
-# Edgar Adrian Pinto Aquino
