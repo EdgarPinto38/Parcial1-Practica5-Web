@@ -1,9 +1,10 @@
 html{
+    scroll-behavior: smooth;
     font-family: 'Bebas Neue', sans-serif;
     font-family: 'DM Serif Display', serif;
     font-family: 'Outfit', sans-serif;
     background-color: rgb(173, 173, 173);
-    scroll-behavior: smooth;
+    
 
 }
 .justificarTexto{
