@@ -1,0 +1,33 @@
+html{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Outfit', sans-serif;
+    background-color: rgb(173, 173, 173);
+
+}
+.justificarTexto{
+    text-align: justify;
+}
+
+.alinearDerecha{
+    padding: 10px;
+    float: left;
+    width: 50%;
+    margin-bottom:30px;
+    border: 20px double #00ff2a;
+}
+.alinearDerecha2{
+    padding: 10px;
+    float: left;
+    width: 50%;
+    margin-bottom:30px;
+    border: 20px double #e5ff00;
+}
+
+.alinearIzquierda{
+    padding: 10px;
+    float: right;
+    width: 50%;
+    margin-bottom:30px;
+    border: 20px double #ff0000;
+}
