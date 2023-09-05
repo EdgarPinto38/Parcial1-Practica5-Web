@@ -9,25 +9,77 @@ html{
     text-align: justify;
 }
 
-.alinearDerecha{
+.alinearIzquierda{
     padding: 10px;
     float: left;
     width: 50%;
     margin-bottom:30px;
-    border: 20px double #00ff2a;
+    border: 20px double #560101;
 }
-.alinearDerecha2{
+.alinearIzquierda2{
     padding: 10px;
     float: left;
     width: 50%;
     margin-bottom:30px;
-    border: 20px double #e5ff00;
+    border: 20px double #0a0048;
 }
 
-.alinearIzquierda{
+.alinearDerecha{
     padding: 10px;
     float: right;
     width: 50%;
     margin-bottom:30px;
-    border: 20px double #ff0000;
+    border: 20px double #014f08;
 }
+
+
+
+.alinearImgDerecha{
+    width:45%; float:right;height:560px
+}
+
+.alinearImgIzquierda{
+    width:45%; float:left;height:560px
+}
+
+.separacionSuperior{
+    margin-bottom:30px;
+}
+
+.tablaTipoDeContacto{
+    margin:auto;
+    width:50%;
+    height:200px; 
+    text-align:center;
+    font-size:16px; 
+    
+    
+}
+
+.borderPerzonalizado{
+    border: 10px dashed;
+    border-color: black;
+}
+
+.ajustarElementoCentro{
+    
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paraImagenesGrandes{
+    width: 25%;
+    height: 25%;
+}
+
+a{
+    color: #516a01;
+}
+
+a:hover{
+    color: black;
+    background-color: white;
+}
+
+
